@@ -1,13 +1,16 @@
 # Hi there! 👋 
-I’m Leandro, a brazilian physicist and Data Science student. 
+
+I’m Leandro, a brazilian physicist and Data Scientist. 
+
 I’m interested in Machine Learning, IA, Quantitative Finance, Forex Trading, Cripto and Apllied Physics.
+
 A quick guide to exploring my Repositories:
 
 DSP : Data Science Projects. Here you can find my personal projects using data to solve business problems.
 
 PP : Personal Projects. Here you cand find my personal projects covering several areas of my interest, such as physics, blockchain or quantitative finance. There is no rules here.
 
-SP : Study Projects. Here you cand find my projects of study, made for practice and study in SQL, NoSQL, Deep Learning, Neural Networks and etc.
+SP : Study Projects. Here you cand find my projects of study, made for practice and study in Python, Cloud, SQL, NoSQL, Deep Learning, Neural Networks and etc.
 <div align="center">
   
   <a href="https://github.com/lelosb">
@@ -27,7 +30,7 @@ SP : Study Projects. Here you cand find my projects of study, made for practice 
   <img align="center" alt="PostgreSQL" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="GCP" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
             
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  
 </div>
   
   ##
@@ -35,11 +38,9 @@ SP : Study Projects. Here you cand find my projects of study, made for practice 
 <div> 
   <a href="https://instagram.com/lost_lelo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
- <a href = "mailto:lelosb@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "mailto:lelosb@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lelosb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/lelosb/lelosb/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
 
 <!---
