@@ -11,12 +11,7 @@ DSP : Data Science Projects. Here you can find my personal projects using data t
 PP : Personal Projects. Here you cand find my personal projects covering several areas of my interest, such as physics, blockchain or quantitative finance. There is no rules here.
 
 SP : Study Projects. Here you cand find my projects of study, made for practice and study in Python, Cloud, SQL, NoSQL, Deep Learning, Neural Networks and etc.
-<div align="center">
-  
-  <a href="https://github.com/lelosb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lelosb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelosb&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
